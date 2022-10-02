@@ -1,0 +1,697 @@
+[2022-02-16 21:01:09,961: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-02-16 21:01:09,965: INFO/MainProcess] mingle: searching for neighbors
+[2022-02-16 21:01:10,977: INFO/MainProcess] mingle: all alone
+[2022-02-16 21:01:10,994: INFO/MainProcess] celery@f9921f0e0b83 ready.
+[2022-02-16 21:01:23,349: INFO/MainProcess] Task create_task[ceb6cffc-e426-4970-a5df-5a1fac4478cc] received
+[2022-02-16 21:01:33,378: INFO/ForkPoolWorker-7] Task create_task[ceb6cffc-e426-4970-a5df-5a1fac4478cc] succeeded in 10.025073800003156s: True
+[2022-02-16 21:05:56,474: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-02-16 21:05:56,480: INFO/MainProcess] mingle: searching for neighbors
+[2022-02-16 21:05:57,496: INFO/MainProcess] mingle: all alone
+[2022-02-16 21:05:57,524: INFO/MainProcess] celery@ccd05c900b23 ready.
+[2022-02-16 21:08:15,587: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-02-16 21:08:15,591: INFO/MainProcess] mingle: searching for neighbors
+[2022-02-16 21:08:16,602: INFO/MainProcess] mingle: all alone
+[2022-02-16 21:08:16,619: INFO/MainProcess] celery@fd59f8fcf248 ready.
+[2022-02-16 21:08:21,102: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-02-16 21:09:17,007: INFO/MainProcess] Task create_task[63dd73eb-9eda-4fc7-8c04-dcf852c187ca] received
+[2022-02-16 21:09:18,598: INFO/MainProcess] Task create_task[1be3d2fe-dd51-42e4-b2e5-9d6fd9d511a8] received
+[2022-02-16 21:09:20,353: INFO/MainProcess] Task create_task[da68bdeb-d052-4149-8417-699740187498] received
+[2022-02-16 21:09:21,683: INFO/MainProcess] Task create_task[9e367cd1-81f6-4b6c-aab7-336b2eb42026] received
+[2022-02-16 21:09:22,367: INFO/MainProcess] Task create_task[ba55016e-8eb8-41b8-9c11-884b4ea71113] received
+[2022-02-16 21:09:23,023: INFO/MainProcess] Task create_task[55ee8b9d-bd28-477d-94f3-16539392cad0] received
+[2022-02-16 21:09:27,019: INFO/ForkPoolWorker-7] Task create_task[63dd73eb-9eda-4fc7-8c04-dcf852c187ca] succeeded in 10.007605899998453s: True
+[2022-02-16 21:09:31,702: INFO/ForkPoolWorker-2] Task create_task[9e367cd1-81f6-4b6c-aab7-336b2eb42026] succeeded in 10.01563239999814s: True
+[2022-02-16 21:09:32,389: INFO/ForkPoolWorker-3] Task create_task[ba55016e-8eb8-41b8-9c11-884b4ea71113] succeeded in 10.017498500004876s: True
+[2022-02-16 21:09:33,046: INFO/ForkPoolWorker-4] Task create_task[55ee8b9d-bd28-477d-94f3-16539392cad0] succeeded in 10.018922599963844s: True
+[2022-02-16 21:09:38,591: INFO/ForkPoolWorker-8] Task create_task[1be3d2fe-dd51-42e4-b2e5-9d6fd9d511a8] succeeded in 20.023398499994073s: True
+[2022-02-16 21:09:50,355: INFO/ForkPoolWorker-1] Task create_task[da68bdeb-d052-4149-8417-699740187498] succeeded in 30.032274500001222s: True
+[2022-02-16 21:10:02,365: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-02-16 21:10:02,370: INFO/MainProcess] mingle: searching for neighbors
+[2022-02-16 21:10:02,608: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-02-16 21:10:02,614: INFO/MainProcess] mingle: searching for neighbors
+[2022-02-16 21:10:02,613: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-02-16 21:10:02,619: INFO/MainProcess] mingle: searching for neighbors
+[2022-02-16 21:10:03,389: INFO/MainProcess] mingle: all alone
+[2022-02-16 21:10:03,406: INFO/MainProcess] celery@f4816d6c1e17 ready.
+[2022-02-16 21:10:03,626: INFO/MainProcess] mingle: all alone
+[2022-02-16 21:10:03,630: INFO/MainProcess] mingle: all alone
+[2022-02-16 21:10:03,644: INFO/MainProcess] celery@d061bc3bb074 ready.
+[2022-02-16 21:10:03,646: INFO/MainProcess] celery@d1c806a2199b ready.
+[2022-02-16 21:10:05,805: INFO/MainProcess] Task create_task[82ec16fb-6293-49b9-b7c9-6a1b560586dd] received
+[2022-02-16 21:10:06,582: INFO/MainProcess] Task create_task[4f33b939-e849-4354-9012-77d715e6eae4] received
+[2022-02-16 21:10:07,837: INFO/MainProcess] Task create_task[b3b2d236-a5d8-4427-880b-8db437a75feb] received
+[2022-02-16 21:10:08,080: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-02-16 21:10:08,080: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-02-16 21:10:08,080: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-02-16 21:10:10,526: INFO/MainProcess] Task create_task[00ec388c-ba20-47d2-9867-0724c7034c38] received
+[2022-02-16 21:10:11,609: INFO/MainProcess] Task create_task[d10baa54-d5b9-4de3-90a5-bac9f09f482e] received
+[2022-02-16 21:10:13,186: INFO/MainProcess] Task create_task[081fce78-9dec-44ca-a844-0e7a6d2dc298] received
+[2022-02-16 21:10:14,346: INFO/MainProcess] Task create_task[725b9225-819c-4f3c-9a00-6653e76637a4] received
+[2022-02-16 21:10:15,790: INFO/ForkPoolWorker-7] Task create_task[82ec16fb-6293-49b9-b7c9-6a1b560586dd] succeeded in 10.015644100029022s: True
+[2022-02-16 21:10:16,565: INFO/ForkPoolWorker-7] Task create_task[4f33b939-e849-4354-9012-77d715e6eae4] succeeded in 10.014254699985031s: True
+[2022-02-16 21:10:17,826: INFO/ForkPoolWorker-8] Task create_task[b3b2d236-a5d8-4427-880b-8db437a75feb] succeeded in 10.019260900036898s: True
+[2022-02-16 21:10:25,805: INFO/MainProcess] Task create_task[d8d27dc7-5af0-4b52-b178-99a4aa660718] received
+[2022-02-16 21:10:29,288: INFO/MainProcess] Task create_task[4a808dd4-d97e-49ef-b7b0-2185c0fab210] received
+[2022-02-16 21:10:30,561: INFO/ForkPoolWorker-8] Task create_task[00ec388c-ba20-47d2-9867-0724c7034c38] succeeded in 20.03153660002863s: True
+[2022-02-16 21:10:31,044: INFO/MainProcess] Task create_task[006f4446-f544-45d3-842f-5829a10ac502] received
+[2022-02-16 21:10:31,641: INFO/ForkPoolWorker-7] Task create_task[d10baa54-d5b9-4de3-90a5-bac9f09f482e] succeeded in 20.027840199996717s: True
+[2022-02-16 21:10:34,376: INFO/ForkPoolWorker-1] Task create_task[725b9225-819c-4f3c-9a00-6653e76637a4] succeeded in 20.026221800013445s: True
+[2022-02-16 21:10:35,824: INFO/ForkPoolWorker-7] Task create_task[d8d27dc7-5af0-4b52-b178-99a4aa660718] succeeded in 10.01432030001888s: True
+[2022-02-16 21:10:41,030: INFO/ForkPoolWorker-2] Task create_task[006f4446-f544-45d3-842f-5829a10ac502] succeeded in 10.017253800004255s: True
+[2022-02-16 21:10:43,183: INFO/ForkPoolWorker-8] Task create_task[081fce78-9dec-44ca-a844-0e7a6d2dc298] succeeded in 30.025924300018232s: True
+[2022-02-16 21:11:19,171: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-02-16 21:11:19,174: INFO/MainProcess] mingle: searching for neighbors
+[2022-02-16 21:11:20,187: INFO/MainProcess] mingle: all alone
+[2022-02-16 21:11:20,203: INFO/MainProcess] celery@896d86af2108 ready.
+[2022-02-16 21:11:24,671: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-02-16 21:14:10,145: INFO/MainProcess] Task create_task[4ecddb30-35c8-4399-9f14-8bd532ef74b7] received
+[2022-02-16 21:14:10,152: INFO/ForkPoolWorker-7] Task create_task[4ecddb30-35c8-4399-9f14-8bd532ef74b7] succeeded in 0.004089999943971634s: True
+[2022-02-16 21:15:22,495: INFO/MainProcess] Task create_task[bf4fb287-e4f2-424d-bbf8-da4a064c91b8] received
+[2022-02-16 21:15:22,499: INFO/ForkPoolWorker-7] Task create_task[bf4fb287-e4f2-424d-bbf8-da4a064c91b8] succeeded in 0.000928599969483912s: True
+[2022-02-16 21:27:34,065: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-02-16 21:27:34,071: INFO/MainProcess] mingle: searching for neighbors
+[2022-02-16 21:27:35,083: INFO/MainProcess] mingle: all alone
+[2022-02-16 21:27:35,099: INFO/MainProcess] celery@497fce8c9606 ready.
+[2022-02-16 21:27:39,514: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-02-16 21:28:20,282: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-02-16 21:28:20,286: INFO/MainProcess] mingle: searching for neighbors
+[2022-02-16 21:28:21,297: INFO/MainProcess] mingle: all alone
+[2022-02-16 21:28:21,313: INFO/MainProcess] celery@8374b135e841 ready.
+[2022-02-16 21:28:25,769: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-02-16 21:28:39,261: INFO/MainProcess] Task create_task[393545d9-fd90-49d9-8f9d-ed0ef4cd7aec] received
+[2022-02-16 21:28:49,280: INFO/ForkPoolWorker-7] Task create_task[393545d9-fd90-49d9-8f9d-ed0ef4cd7aec] succeeded in 10.01493579999078s: True
+[2022-02-16 21:29:26,493: INFO/MainProcess] Task create_task[d39c559e-0e3e-4de7-91dc-7f2ef898fa68] received
+[2022-02-16 21:29:26,498: INFO/ForkPoolWorker-7] Task create_task[d39c559e-0e3e-4de7-91dc-7f2ef898fa68] succeeded in 0.0014217999996617436s: True
+[2022-09-29 13:30:25,504: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-29 13:30:25,524: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-29 13:30:26,546: INFO/MainProcess] mingle: all alone
+[2022-09-29 13:30:26,586: INFO/MainProcess] celery@259eb94f4323 ready.
+[2022-09-29 13:30:30,656: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-09-29 13:32:14,839: INFO/MainProcess] Task create_task[e23cbd50-c789-490c-84a7-ac46ad93af3a] received
+[2022-09-29 13:32:15,090: INFO/MainProcess] Task create_task[e76c99a2-e8b3-40b2-8397-94f6499b7836] received
+[2022-09-29 13:32:34,883: INFO/ForkPoolWorker-3] Task create_task[e23cbd50-c789-490c-84a7-ac46ad93af3a] succeeded in 20.029682425999965s: True
+[2022-09-29 13:32:45,159: INFO/ForkPoolWorker-5] Task create_task[e76c99a2-e8b3-40b2-8397-94f6499b7836] succeeded in 30.047283014000016s: True
+[2022-09-29 13:55:08,171: INFO/MainProcess] Task create_task[0685ee01-c628-487b-bb47-abaaedad4211] received
+[2022-09-29 13:55:28,191: INFO/ForkPoolWorker-3] Task create_task[0685ee01-c628-487b-bb47-abaaedad4211] succeeded in 20.001539383999898s: True
+[2022-09-29 18:44:19,139: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-29 18:44:19,157: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-29 18:44:20,183: INFO/MainProcess] mingle: all alone
+[2022-09-29 18:44:20,231: INFO/MainProcess] celery@3d55c8e39b94 ready.
+[2022-09-29 18:44:24,299: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-09-29 18:45:23,180: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-29 18:45:23,190: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-29 18:45:24,213: INFO/MainProcess] mingle: all alone
+[2022-09-29 18:45:24,255: INFO/MainProcess] celery@05ed514b549b ready.
+[2022-09-29 18:45:28,539: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-09-29 18:46:08,415: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-29 18:46:08,427: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-29 18:46:09,452: INFO/MainProcess] mingle: all alone
+[2022-09-29 18:46:09,503: INFO/MainProcess] celery@94aefab7f0ca ready.
+[2022-09-29 18:46:38,597: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-29 18:46:38,605: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-29 18:46:39,631: INFO/MainProcess] mingle: all alone
+[2022-09-29 18:46:39,673: INFO/MainProcess] celery@40056f71d991 ready.
+[2022-09-29 18:55:44,847: INFO/MainProcess] Task create_task[96d79dad-9988-453c-a593-6ab526ba85c6] received
+[2022-09-29 19:05:44,954: INFO/ForkPoolWorker-3] Task create_task[96d79dad-9988-453c-a593-6ab526ba85c6] succeeded in 600.0856121489996s: True
+[2022-09-30 09:21:49,600: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-30 09:21:49,609: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-30 09:21:50,633: INFO/MainProcess] mingle: all alone
+[2022-09-30 09:21:50,668: INFO/MainProcess] celery@74ce435ea812 ready.
+[2022-09-30 10:42:53,944: INFO/MainProcess] Task project.server.tasks.reformat_file[27e46913-dc68-414c-8935-bcf4b7f553a7] received
+[2022-09-30 10:42:53,955: WARNING/ForkPoolWorker-3] {}
+[2022-09-30 10:42:58,993: ERROR/ForkPoolWorker-3] Task project.server.tasks.reformat_file[27e46913-dc68-414c-8935-bcf4b7f553a7] raised unexpected: EncodeError(TypeError('Object of type TextIOWrapper is not JSON serializable'))
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/kombu/serialization.py", line 39, in _reraise_errors
+    yield
+  File "/usr/local/lib/python3.10/site-packages/kombu/serialization.py", line 210, in dumps
+    payload = encoder(data)
+  File "/usr/local/lib/python3.10/site-packages/kombu/utils/json.py", line 68, in dumps
+    return _dumps(s, cls=cls or _default_encoder,
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/kombu/utils/json.py", line 58, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type TextIOWrapper is not JSON serializable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 518, in trace_task
+    task.backend.mark_as_done(
+  File "/usr/local/lib/python3.10/site-packages/celery/backends/base.py", line 162, in mark_as_done
+    self.store_result(task_id, result, state, request=request)
+  File "/usr/local/lib/python3.10/site-packages/celery/backends/base.py", line 528, in store_result
+    self._store_result(task_id, result, state, traceback,
+  File "/usr/local/lib/python3.10/site-packages/celery/backends/base.py", line 962, in _store_result
+    self._set_with_state(self.get_key_for_task(task_id), self.encode(meta), state)
+  File "/usr/local/lib/python3.10/site-packages/celery/backends/base.py", line 418, in encode
+    _, _, payload = self._encode(data)
+  File "/usr/local/lib/python3.10/site-packages/celery/backends/base.py", line 422, in _encode
+    return dumps(data, serializer=self.serializer)
+  File "/usr/local/lib/python3.10/site-packages/kombu/serialization.py", line 209, in dumps
+    with _reraise_errors(EncodeError):
+  File "/usr/local/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/usr/local/lib/python3.10/site-packages/kombu/serialization.py", line 43, in _reraise_errors
+    reraise(wrapper, wrapper(exc), sys.exc_info()[2])
+  File "/usr/local/lib/python3.10/site-packages/kombu/exceptions.py", line 21, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/local/lib/python3.10/site-packages/kombu/serialization.py", line 39, in _reraise_errors
+    yield
+  File "/usr/local/lib/python3.10/site-packages/kombu/serialization.py", line 210, in dumps
+    payload = encoder(data)
+  File "/usr/local/lib/python3.10/site-packages/kombu/utils/json.py", line 68, in dumps
+    return _dumps(s, cls=cls or _default_encoder,
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/kombu/utils/json.py", line 58, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+kombu.exceptions.EncodeError: Object of type TextIOWrapper is not JSON serializable
+[2022-09-30 10:55:46,999: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-30 10:55:47,009: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-30 10:55:48,038: INFO/MainProcess] mingle: all alone
+[2022-09-30 10:55:48,073: INFO/MainProcess] celery@79efb7f201a2 ready.
+[2022-09-30 10:58:16,909: INFO/MainProcess] Task project.server.tasks.reformat_file[d188309b-9d79-4cad-9eb4-0fbd769f9241] received
+[2022-09-30 10:58:16,919: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 10:58:16,930: WARNING/ForkPoolWorker-3] {}
+[2022-09-30 10:58:16,945: INFO/ForkPoolWorker-3] Task project.server.tasks.reformat_file[d188309b-9d79-4cad-9eb4-0fbd769f9241] succeeded in 0.026749874999950407s: 'new_test.csv'
+[2022-09-30 11:10:10,828: INFO/MainProcess] Task project.server.tasks.reformat_file[8c81b271-b177-4e3d-b368-796443ab7b85] received
+[2022-09-30 11:10:10,834: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 11:10:10,839: WARNING/ForkPoolWorker-3] {}
+[2022-09-30 11:10:10,847: INFO/ForkPoolWorker-3] Task project.server.tasks.reformat_file[8c81b271-b177-4e3d-b368-796443ab7b85] succeeded in 0.013243749999674037s: 'new_test.csv'
+[2022-09-30 11:12:26,799: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-30 11:12:26,809: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-30 11:12:27,834: INFO/MainProcess] mingle: all alone
+[2022-09-30 11:12:27,874: INFO/MainProcess] celery@f47fe9890a65 ready.
+[2022-09-30 11:12:57,915: INFO/MainProcess] Task project.server.tasks.reformat_file[82af998d-42ad-48db-a307-455731f00b7a] received
+[2022-09-30 11:12:57,927: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 11:12:57,939: WARNING/ForkPoolWorker-3] {}
+[2022-09-30 11:13:02,973: INFO/ForkPoolWorker-3] Task project.server.tasks.reformat_file[82af998d-42ad-48db-a307-455731f00b7a] succeeded in 5.046094460001768s: 'new_test.csv'
+[2022-09-30 11:15:57,608: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-30 11:15:57,619: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-30 11:15:58,643: INFO/MainProcess] mingle: all alone
+[2022-09-30 11:15:58,687: INFO/MainProcess] celery@33f323c722cf ready.
+[2022-09-30 11:16:21,601: INFO/MainProcess] Task project.server.tasks.reformat_file[333a4630-e8bb-4457-80f4-a86107696681] received
+[2022-09-30 11:16:21,610: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 11:16:21,619: WARNING/ForkPoolWorker-3] {}
+[2022-09-30 11:16:21,631: INFO/ForkPoolWorker-3] Task project.server.tasks.reformat_file[333a4630-e8bb-4457-80f4-a86107696681] succeeded in 0.02203899999949499s: 'new_test.csv'
+[2022-09-30 11:18:20,081: INFO/MainProcess] Task project.server.tasks.reformat_file[05285cce-1096-45b3-a6ea-b8bed877c75e] received
+[2022-09-30 11:18:20,085: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 11:18:20,091: WARNING/ForkPoolWorker-3] {}
+[2022-09-30 11:18:20,098: INFO/ForkPoolWorker-3] Task project.server.tasks.reformat_file[05285cce-1096-45b3-a6ea-b8bed877c75e] succeeded in 0.012924000002385583s: 'new_test.csv'
+[2022-09-30 11:19:20,304: INFO/MainProcess] Task project.server.tasks.reformat_file[328c6c1c-fa2d-43e6-a576-9c9669cd5956] received
+[2022-09-30 11:19:20,313: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 11:19:20,323: WARNING/ForkPoolWorker-3] {}
+[2022-09-30 11:19:20,335: INFO/ForkPoolWorker-3] Task project.server.tasks.reformat_file[328c6c1c-fa2d-43e6-a576-9c9669cd5956] succeeded in 0.022849916000268422s: 'new_test.csv'
+[2022-09-30 11:34:30,336: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-30 11:34:30,367: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-30 11:34:31,393: INFO/MainProcess] mingle: all alone
+[2022-09-30 11:34:31,431: INFO/MainProcess] celery@57b7f6944b83 ready.
+[2022-09-30 11:40:09,601: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-30 11:40:09,612: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-30 11:40:10,633: INFO/MainProcess] mingle: all alone
+[2022-09-30 11:40:10,661: INFO/MainProcess] celery@36ec511f1677 ready.
+[2022-09-30 11:46:09,601: INFO/MainProcess] Task project.server.tasks.reformat_file[a1d4c6ec-9493-4383-8d07-0e159eb5dba0] received
+[2022-09-30 11:46:09,611: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 11:46:09,626: WARNING/ForkPoolWorker-3] {}
+[2022-09-30 11:46:09,641: INFO/ForkPoolWorker-3] Task project.server.tasks.reformat_file[a1d4c6ec-9493-4383-8d07-0e159eb5dba0] succeeded in 0.030853459000354633s: 'new_test.csv'
+[2022-09-30 11:47:09,529: INFO/MainProcess] Task project.server.tasks.reformat_file[be60a432-1781-47bc-84dc-45c33315a122] received
+[2022-09-30 11:47:09,541: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 11:47:09,559: WARNING/ForkPoolWorker-3] {}
+[2022-09-30 11:47:09,571: INFO/ForkPoolWorker-3] Task project.server.tasks.reformat_file[be60a432-1781-47bc-84dc-45c33315a122] succeeded in 0.02986662500188686s: 'new_test.csv'
+[2022-09-30 11:53:30,730: INFO/MainProcess] Task project.server.tasks.reformat_file[9810ad19-a19c-4850-89e9-b048841db7b5] received
+[2022-09-30 11:53:30,747: ERROR/ForkPoolWorker-3] Task project.server.tasks.reformat_file[9810ad19-a19c-4850-89e9-b048841db7b5] raised unexpected: TypeError('reformat_file() takes 1 positional argument but 2 were given')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+TypeError: reformat_file() takes 1 positional argument but 2 were given
+[2022-09-30 11:54:37,734: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-30 11:54:37,751: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-30 11:54:38,780: INFO/MainProcess] mingle: all alone
+[2022-09-30 11:54:38,818: INFO/MainProcess] celery@204ff48eeee4 ready.
+[2022-09-30 11:54:41,676: INFO/MainProcess] Task project.server.tasks.reformat_file[12f16913-7dd1-43df-81dd-dbaffadd0321] received
+[2022-09-30 11:54:41,683: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 11:54:41,696: ERROR/ForkPoolWorker-3] Task project.server.tasks.reformat_file[12f16913-7dd1-43df-81dd-dbaffadd0321] raised unexpected: FileNotFoundError(2, 'No such file or directory')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 30, in reformat_file
+    with open(file, newline='') as csvfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'test.csv'
+[2022-09-30 11:55:34,114: INFO/MainProcess] Task project.server.tasks.reformat_file[774e05e0-3651-4e8c-9768-e9a6c9c4d56b] received
+[2022-09-30 11:55:34,125: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 11:55:34,138: ERROR/ForkPoolWorker-3] Task project.server.tasks.reformat_file[774e05e0-3651-4e8c-9768-e9a6c9c4d56b] raised unexpected: FileNotFoundError(2, 'No such file or directory')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 30, in reformat_file
+    with open(file, newline='') as csvfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'test.csv'
+[2022-09-30 11:56:38,460: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-30 11:56:38,472: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-30 11:56:39,500: INFO/MainProcess] mingle: all alone
+[2022-09-30 11:56:39,550: INFO/MainProcess] celery@33e6b5656c8e ready.
+[2022-09-30 11:56:41,544: INFO/MainProcess] Task project.server.tasks.reformat_file[ac4dcb40-3eb6-4498-b6f7-4674a8eab76d] received
+[2022-09-30 11:56:41,556: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 11:56:41,572: ERROR/ForkPoolWorker-3] Task project.server.tasks.reformat_file[ac4dcb40-3eb6-4498-b6f7-4674a8eab76d] raised unexpected: FileNotFoundError(2, 'No such file or directory')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 30, in reformat_file
+    with open(file, newline='') as csvfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'test.csv'
+[2022-09-30 11:58:36,505: INFO/MainProcess] Task project.server.tasks.reformat_file[b04ba96d-ffde-4872-af98-0dc86c1a426b] received
+[2022-09-30 11:58:36,518: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 11:58:36,539: ERROR/ForkPoolWorker-3] Task project.server.tasks.reformat_file[b04ba96d-ffde-4872-af98-0dc86c1a426b] raised unexpected: FileNotFoundError(2, 'No such file or directory')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 30, in reformat_file
+    with open(file, newline='') as csvfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'test.csv'
+[2022-09-30 12:00:02,803: INFO/MainProcess] Task project.server.tasks.reformat_file[48fc4685-c686-424c-bef8-be87a8ee4e22] received
+[2022-09-30 12:00:02,810: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 12:00:02,822: WARNING/ForkPoolWorker-3] {}
+[2022-09-30 12:00:02,831: ERROR/ForkPoolWorker-3] Task project.server.tasks.reformat_file[48fc4685-c686-424c-bef8-be87a8ee4e22] raised unexpected: FileNotFoundError(2, 'No such file or directory')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 54, in reformat_file
+    with open(new_name, 'w') as csvfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'project/file_storage/new_project/file_storage/test.csv'
+[2022-09-30 12:23:20,211: INFO/MainProcess] Task project.server.tasks.reformat_file[f4401cf0-d689-4bdb-afea-dcc9d9472f45] received
+[2022-09-30 12:23:20,223: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 12:23:20,235: WARNING/ForkPoolWorker-3] Song
+[2022-09-30 12:23:20,240: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,244: WARNING/ForkPoolWorker-3] Date
+[2022-09-30 12:23:20,249: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,253: WARNING/ForkPoolWorker-3] Number of Plays
+[2022-09-30 12:23:20,256: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:23:20,259: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,262: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:23:20,264: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,266: WARNING/ForkPoolWorker-3] 200
+[2022-09-30 12:23:20,267: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:23:20,270: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,273: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:23:20,276: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,279: WARNING/ForkPoolWorker-3] 100
+[2022-09-30 12:23:20,282: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:23:20,285: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,304: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:23:20,307: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,308: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 12:23:20,311: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:23:20,313: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,315: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:23:20,317: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,319: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 12:23:20,322: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:23:20,342: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,362: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:23:20,364: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,367: WARNING/ForkPoolWorker-3] 1000
+[2022-09-30 12:23:20,369: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:23:20,372: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,374: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:23:20,375: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,378: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 12:23:20,379: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:23:20,381: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,383: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:23:20,385: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:23:20,387: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 12:23:20,390: WARNING/ForkPoolWorker-3] {'Song+Date': 'Number of Plays', 'Umbrella+2020-01-02': 250, 'Umbrella+2020-01-01': 150, 'In The End+2020-01-01': 1500, 'In The End+2020-01-02': '500'}
+[2022-09-30 12:23:20,396: ERROR/ForkPoolWorker-3] Task project.server.tasks.reformat_file[f4401cf0-d689-4bdb-afea-dcc9d9472f45] raised unexpected: FileNotFoundError(2, 'No such file or directory')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 54, in reformat_file
+    arr = string_file.rsplit('/', 1)
+FileNotFoundError: [Errno 2] No such file or directory: 'project/file_storage/new_project/file_storage/test.csv'
+[2022-09-30 12:24:50,815: INFO/MainProcess] Task project.server.tasks.reformat_file[a34737fe-f93f-4990-b907-656c62fdb138] received
+[2022-09-30 12:24:50,822: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 12:24:50,833: WARNING/ForkPoolWorker-3] Song
+[2022-09-30 12:24:50,836: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,839: WARNING/ForkPoolWorker-3] Date
+[2022-09-30 12:24:50,841: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,843: WARNING/ForkPoolWorker-3] Number of Plays
+[2022-09-30 12:24:50,845: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:24:50,847: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,849: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:24:50,851: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,854: WARNING/ForkPoolWorker-3] 200
+[2022-09-30 12:24:50,873: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:24:50,893: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,896: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:24:50,916: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,918: WARNING/ForkPoolWorker-3] 100
+[2022-09-30 12:24:50,922: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:24:50,924: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,926: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:24:50,928: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,930: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 12:24:50,932: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:24:50,934: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,935: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:24:50,937: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,938: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 12:24:50,939: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:24:50,941: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,943: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:24:50,945: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,947: WARNING/ForkPoolWorker-3] 1000
+[2022-09-30 12:24:50,949: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:24:50,950: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,952: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:24:50,954: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,956: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 12:24:50,958: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:24:50,959: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,961: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:24:50,963: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:24:50,965: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 12:24:50,966: WARNING/ForkPoolWorker-3] {'Song+Date': 'Number of Plays', 'Umbrella+2020-01-02': 250, 'Umbrella+2020-01-01': 150, 'In The End+2020-01-01': 1500, 'In The End+2020-01-02': '500'}
+[2022-09-30 12:24:50,970: ERROR/ForkPoolWorker-3] Task project.server.tasks.reformat_file[a34737fe-f93f-4990-b907-656c62fdb138] raised unexpected: FileNotFoundError(2, 'No such file or directory')
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/usr/src/app/project/server/tasks.py", line 54, in reformat_file
+    arr = string_file.rsplit('/', 1)
+FileNotFoundError: [Errno 2] No such file or directory: 'project/file_storage/new_project/file_storage/test.csv'
+[2022-09-30 12:32:55,604: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-30 12:32:55,627: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-30 12:32:56,659: INFO/MainProcess] mingle: all alone
+[2022-09-30 12:32:56,717: INFO/MainProcess] celery@be95080a98c9 ready.
+[2022-09-30 12:32:59,102: INFO/MainProcess] Task project.server.tasks.reformat_file[ae26a2bd-56c9-4b71-a10b-82d6705006d9] received
+[2022-09-30 12:32:59,110: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 12:32:59,126: WARNING/ForkPoolWorker-3] Song
+[2022-09-30 12:32:59,139: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,143: WARNING/ForkPoolWorker-3] Date
+[2022-09-30 12:32:59,147: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,150: WARNING/ForkPoolWorker-3] Number of Plays
+[2022-09-30 12:32:59,153: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:32:59,157: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,160: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:32:59,162: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,164: WARNING/ForkPoolWorker-3] 200
+[2022-09-30 12:32:59,168: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:32:59,171: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,174: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:32:59,177: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,195: WARNING/ForkPoolWorker-3] 100
+[2022-09-30 12:32:59,198: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:32:59,218: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,221: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:32:59,223: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,227: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 12:32:59,230: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:32:59,232: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,234: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:32:59,253: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,255: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 12:32:59,258: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:32:59,260: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,262: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:32:59,263: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,265: WARNING/ForkPoolWorker-3] 1000
+[2022-09-30 12:32:59,266: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:32:59,269: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,271: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:32:59,273: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,275: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 12:32:59,276: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:32:59,278: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,279: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:32:59,281: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:32:59,282: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 12:32:59,284: WARNING/ForkPoolWorker-3] {'Song+Date': 'Number of Plays', 'Umbrella+2020-01-02': 250, 'Umbrella+2020-01-01': 150, 'In The End+2020-01-01': 1500, 'In The End+2020-01-02': '500'}
+[2022-09-30 12:32:59,286: WARNING/ForkPoolWorker-3] project/file_storage/new_test.csv
+[2022-09-30 12:32:59,292: WARNING/ForkPoolWorker-3] file was opened
+[2022-09-30 12:33:04,304: INFO/ForkPoolWorker-3] Task project.server.tasks.reformat_file[ae26a2bd-56c9-4b71-a10b-82d6705006d9] succeeded in 5.193617209999502s: 'project/file_storage/new_test.csv'
+[2022-09-30 12:34:09,042: INFO/MainProcess] Task project.server.tasks.reformat_file[1dac347c-ee3d-4ae1-a229-bf3cadc914ed] received
+[2022-09-30 12:34:09,056: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 12:34:09,069: WARNING/ForkPoolWorker-3] Song
+[2022-09-30 12:34:09,074: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,078: WARNING/ForkPoolWorker-3] Date
+[2022-09-30 12:34:09,082: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,085: WARNING/ForkPoolWorker-3] Number of Plays
+[2022-09-30 12:34:09,087: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:34:09,090: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,093: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:34:09,098: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,100: WARNING/ForkPoolWorker-3] 200
+[2022-09-30 12:34:09,103: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:34:09,122: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,124: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:34:09,142: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,145: WARNING/ForkPoolWorker-3] 100
+[2022-09-30 12:34:09,147: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:34:09,149: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,151: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:34:09,153: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,155: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 12:34:09,157: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:34:09,159: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,161: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:34:09,163: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,166: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 12:34:09,168: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:34:09,169: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,171: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:34:09,173: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,175: WARNING/ForkPoolWorker-3] 1000
+[2022-09-30 12:34:09,177: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:34:09,179: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,180: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:34:09,182: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,184: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 12:34:09,186: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:34:09,187: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,189: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:34:09,191: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:09,194: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 12:34:09,197: WARNING/ForkPoolWorker-3] {'Song+Date': 'Number of Plays', 'Umbrella+2020-01-02': 250, 'Umbrella+2020-01-01': 150, 'In The End+2020-01-01': 1500, 'In The End+2020-01-02': '500'}
+[2022-09-30 12:34:09,198: WARNING/ForkPoolWorker-3] project/file_storage/new_test.csv
+[2022-09-30 12:34:09,204: WARNING/ForkPoolWorker-3] file was opened
+[2022-09-30 12:34:09,209: INFO/ForkPoolWorker-3] Task project.server.tasks.reformat_file[1dac347c-ee3d-4ae1-a229-bf3cadc914ed] succeeded in 0.15296950000265497s: 'project/file_storage/new_test.csv'
+[2022-09-30 12:34:34,573: INFO/MainProcess] Task project.server.tasks.reformat_file[5a274efd-f0ff-4807-87d8-9e2c26c9f013] received
+[2022-09-30 12:34:34,583: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 12:34:34,598: WARNING/ForkPoolWorker-3] Song
+[2022-09-30 12:34:34,601: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,605: WARNING/ForkPoolWorker-3] Date
+[2022-09-30 12:34:34,609: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,612: WARNING/ForkPoolWorker-3] Number of Plays
+[2022-09-30 12:34:34,632: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:34:34,652: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,656: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:34:34,660: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,680: WARNING/ForkPoolWorker-3] 200
+[2022-09-30 12:34:34,683: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:34:34,686: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,689: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:34:34,692: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,694: WARNING/ForkPoolWorker-3] 100
+[2022-09-30 12:34:34,697: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:34:34,698: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,700: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:34:34,701: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,702: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 12:34:34,704: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:34:34,705: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,707: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:34:34,709: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,710: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 12:34:34,712: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:34:34,714: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,716: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:34:34,717: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,719: WARNING/ForkPoolWorker-3] 1000
+[2022-09-30 12:34:34,721: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:34:34,723: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,725: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:34:34,726: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,728: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 12:34:34,730: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:34:34,732: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,734: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:34:34,735: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:34:34,737: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 12:34:34,739: WARNING/ForkPoolWorker-3] {'Song+Date': 'Number of Plays', 'Umbrella+2020-01-02': 250, 'Umbrella+2020-01-01': 150, 'In The End+2020-01-01': 1500, 'In The End+2020-01-02': '500'}
+[2022-09-30 12:34:34,741: WARNING/ForkPoolWorker-3] project/file_storage/new_test.csv
+[2022-09-30 12:34:34,745: WARNING/ForkPoolWorker-3] file was opened
+[2022-09-30 12:34:34,749: INFO/ForkPoolWorker-3] Task project.server.tasks.reformat_file[5a274efd-f0ff-4807-87d8-9e2c26c9f013] succeeded in 0.16553741700045066s: 'project/file_storage/new_test.csv'
+[2022-09-30 12:42:08,601: INFO/MainProcess] Task project.server.tasks.reformat_file[1cecfc2f-baed-4718-a649-ca2a24093b28] received
+[2022-09-30 12:42:08,612: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 12:42:08,629: WARNING/ForkPoolWorker-3] Song
+[2022-09-30 12:42:08,633: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,637: WARNING/ForkPoolWorker-3] Date
+[2022-09-30 12:42:08,641: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,644: WARNING/ForkPoolWorker-3] Number of Plays
+[2022-09-30 12:42:08,646: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:42:08,648: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,653: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:42:08,673: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,675: WARNING/ForkPoolWorker-3] 200
+[2022-09-30 12:42:08,695: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:42:08,697: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,700: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:42:08,720: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,723: WARNING/ForkPoolWorker-3] 100
+[2022-09-30 12:42:08,726: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:42:08,728: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,730: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:42:08,732: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,735: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 12:42:08,737: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:42:08,738: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,740: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:42:08,742: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,744: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 12:42:08,746: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:42:08,748: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,749: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 12:42:08,751: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,754: WARNING/ForkPoolWorker-3] 1000
+[2022-09-30 12:42:08,756: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 12:42:08,758: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,760: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:42:08,761: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,763: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 12:42:08,765: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 12:42:08,767: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,768: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 12:42:08,770: WARNING/ForkPoolWorker-3]  
+[2022-09-30 12:42:08,772: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 12:42:08,774: WARNING/ForkPoolWorker-3] {'Song+Date': 'Number of Plays', 'Umbrella+2020-01-02': 250, 'Umbrella+2020-01-01': 150, 'In The End+2020-01-01': 1500, 'In The End+2020-01-02': '500'}
+[2022-09-30 12:42:08,777: WARNING/ForkPoolWorker-3] project/file_storage/new_test.csv
+[2022-09-30 12:42:08,782: WARNING/ForkPoolWorker-3] file was opened
+[2022-09-30 12:42:08,786: INFO/ForkPoolWorker-3] Task project.server.tasks.reformat_file[1cecfc2f-baed-4718-a649-ca2a24093b28] succeeded in 0.17459299999973155s: 'project/file_storage/new_test.csv'
+[2022-09-30 12:59:10,827: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-30 12:59:15,863: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-30 12:59:16,893: INFO/MainProcess] mingle: all alone
+[2022-09-30 12:59:16,930: INFO/MainProcess] celery@3362ce2b5fa4 ready.
+[2022-09-30 13:00:02,514: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-09-30 13:00:02,518: INFO/MainProcess] mingle: searching for neighbors
+[2022-09-30 13:00:03,543: INFO/MainProcess] mingle: all alone
+[2022-09-30 13:00:03,572: INFO/MainProcess] celery@6c6a77ec450d ready.
+[2022-09-30 13:08:14,521: INFO/MainProcess] Task project.server.tasks.reformat_file[5d1875b9-eba7-4bfc-8fbc-fc0bda3049f9] received
+[2022-09-30 13:08:14,535: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 13:08:14,551: WARNING/ForkPoolWorker-3] Song
+[2022-09-30 13:08:14,555: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,559: WARNING/ForkPoolWorker-3] Date
+[2022-09-30 13:08:14,562: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,566: WARNING/ForkPoolWorker-3] Number of Plays
+[2022-09-30 13:08:14,568: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 13:08:14,572: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,592: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 13:08:14,599: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,621: WARNING/ForkPoolWorker-3] 200
+[2022-09-30 13:08:14,624: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 13:08:14,641: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,643: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 13:08:14,646: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,649: WARNING/ForkPoolWorker-3] 100
+[2022-09-30 13:08:14,650: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 13:08:14,653: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,655: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 13:08:14,657: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,659: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 13:08:14,661: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 13:08:14,664: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,665: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 13:08:14,668: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,669: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 13:08:14,671: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 13:08:14,673: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,675: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 13:08:14,677: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,679: WARNING/ForkPoolWorker-3] 1000
+[2022-09-30 13:08:14,681: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 13:08:14,683: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,686: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 13:08:14,688: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,691: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 13:08:14,693: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 13:08:14,695: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,697: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 13:08:14,699: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:08:14,701: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 13:08:14,703: WARNING/ForkPoolWorker-3] {'Song+Date': 'Number of Plays', 'Umbrella+2020-01-02': 250, 'Umbrella+2020-01-01': 150, 'In The End+2020-01-01': 1500, 'In The End+2020-01-02': '500'}
+[2022-09-30 13:08:14,704: WARNING/ForkPoolWorker-3] project/file_storage/new_test.csv
+[2022-09-30 13:08:14,710: WARNING/ForkPoolWorker-3] file was opened
+[2022-09-30 13:08:14,716: INFO/ForkPoolWorker-3] Task project.server.tasks.reformat_file[5d1875b9-eba7-4bfc-8fbc-fc0bda3049f9] succeeded in 0.1815214170019317s: 'new_test.csv'
+[2022-09-30 13:24:37,553: INFO/MainProcess] Task project.server.tasks.reformat_file[cdb39fa8-024c-44cd-b2b7-994b9e2936c5] received
+[2022-09-30 13:24:37,569: WARNING/ForkPoolWorker-3] reformat start
+[2022-09-30 13:24:37,586: WARNING/ForkPoolWorker-3] Song
+[2022-09-30 13:24:37,608: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,611: WARNING/ForkPoolWorker-3] Date
+[2022-09-30 13:24:37,613: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,616: WARNING/ForkPoolWorker-3] Number of Plays
+[2022-09-30 13:24:37,618: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 13:24:37,621: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,641: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 13:24:37,644: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,648: WARNING/ForkPoolWorker-3] 200
+[2022-09-30 13:24:37,666: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 13:24:37,669: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,672: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 13:24:37,674: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,676: WARNING/ForkPoolWorker-3] 100
+[2022-09-30 13:24:37,677: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 13:24:37,679: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,682: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 13:24:37,684: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,685: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 13:24:37,687: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 13:24:37,689: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,691: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 13:24:37,692: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,694: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 13:24:37,695: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 13:24:37,697: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,699: WARNING/ForkPoolWorker-3] 2020-01-01
+[2022-09-30 13:24:37,701: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,702: WARNING/ForkPoolWorker-3] 1000
+[2022-09-30 13:24:37,704: WARNING/ForkPoolWorker-3] Umbrella
+[2022-09-30 13:24:37,706: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,708: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 13:24:37,710: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,712: WARNING/ForkPoolWorker-3] 50
+[2022-09-30 13:24:37,713: WARNING/ForkPoolWorker-3] In The End
+[2022-09-30 13:24:37,715: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,717: WARNING/ForkPoolWorker-3] 2020-01-02
+[2022-09-30 13:24:37,719: WARNING/ForkPoolWorker-3]  
+[2022-09-30 13:24:37,721: WARNING/ForkPoolWorker-3] 500
+[2022-09-30 13:24:37,722: WARNING/ForkPoolWorker-3] {'Song+Date': 'Number of Plays', 'Umbrella+2020-01-02': 250, 'Umbrella+2020-01-01': 150, 'In The End+2020-01-01': 1500, 'In The End+2020-01-02': '500'}
+[2022-09-30 13:24:37,724: WARNING/ForkPoolWorker-3] project/file_storage/new_test.csv
+[2022-09-30 13:24:37,728: WARNING/ForkPoolWorker-3] file was opened
+[2022-09-30 13:24:37,732: INFO/ForkPoolWorker-3] Task project.server.tasks.reformat_file[cdb39fa8-024c-44cd-b2b7-994b9e2936c5] succeeded in 0.1626117920022807s: 'new_test.csv'
